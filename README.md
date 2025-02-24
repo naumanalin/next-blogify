@@ -1,7 +1,4 @@
 # Next-Blogify
-
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://noumanali.vercel.app/)
-
 A self-learning project where I built the same blog website twice using different backend approaches:
 
 1. **Next.js with Firebase** (BaaS - Backend-as-a-Service)
@@ -13,16 +10,24 @@ A self-learning project where I built the same blog website twice using differen
 |------------------|------------------|
 | ![Firebase UI](./screenshots/firebase-version.png) | ![MongoDB UI](./screenshots/mongodb-version.png) |
 
-## 🧠 Key Learnings
+## 🚀 Features
 
-- **Firebase Approach**:  
-  ✓ Authentication & Storage implementation  
-  ✓ Serverless architecture experience  
-  ✓ Real-time database management
+- Authentication system (Firebase Auth/JWT)
+- Rich text blog creation/editing
+- Image uploads (Firebase Storage/Cloudinary)
+- Responsive UI with Tailwind CSS
+- Search functionality
 
-- **MongoDB Approach**:  
-  ✓ Custom API route creation  
-  ✓ Database schema design  
-  ✓ CRUD operations with Mongoose
+## ⚙️ Technologies
 
-## 🗂️ Project Structure
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Backend**:  
+  - Firebase: Auth, Firestore, Storage  
+  - MongoDB: Atlas, Mongoose, Next.js API
+- **Tools**: Cloudinary, Vercel
+
+---
+
+🔗 **Live Demo**: [Firebase Version](https://) | [MongoDB Version](https://)  
+
+📧 **Contact**: naumanalin865@gmail.com | [[LinkedIn Profile]](https://noumanali.vercel.app/)
